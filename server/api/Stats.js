@@ -7,7 +7,7 @@ const Buildings = [{
   {
     type: 'resource',
     key: 'chemical',
-    name: "Chemical Plant",
+    name: "Chemical Synthesizer",
     base_mod: 0.2,
   },
 
